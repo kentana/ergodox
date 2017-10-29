@@ -39,6 +39,7 @@ Reset key is upper left.
 Almost alphabet keys in right side are operate mouse and layer keys.
 Almost alphabet keys in left side are cmd+self.
 
+In wiki, there is a page about my first concept written in Japanese.
 # how to change keymap.
 
 1. generate url for change keymap in ergodox ez's site.
