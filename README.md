@@ -1,0 +1,2 @@
+# ergodox
+my ergodox keymap.
